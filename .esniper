@@ -1,0 +1,10 @@
+batch = false
+bid = yes
+debug = enabled
+reduce = y
+username = EUSER
+password = EPASS
+logdir=/esniper/logs
+
+quantity = 1
+seconds = 10
