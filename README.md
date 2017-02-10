@@ -13,7 +13,7 @@ sudo docker run --rm \
      -e EUSER=ebay_user \
      -e EPASS=ebay_user \
      -e EITEM=123456789000 \
-     -e EPRICE=33.5 
+     -e EPRICE=33.5 \
      fgorbat/docker-esniper
 ```
 
@@ -31,5 +31,5 @@ sudo docker run --rm \
 #### Screenshot with Example:
 ![N|Solid](https://s30.postimg.org/dkf43ia2p/esniper_docker_example.png)
 
-##### For FAQs and more info about esniper visit home page
-Home page [esniper](http://esniper.sourceforge.net/index.html)
+##### For FAQs and more info about esniper visit home page:
+HOME PAGE [esniper](http://esniper.sourceforge.net/index.html)
