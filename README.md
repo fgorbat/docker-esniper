@@ -29,7 +29,7 @@ sudo docker run --rm \
 ![N|Solid](https://s23.postimg.org/xq520k84r/example1.png)
 
 #### Screenshot with Example:
-![N|Solid](https://s23.postimg.org/vyzyz38x7/esniper_docker_example.png)
+![N|Solid](https://s30.postimg.org/dkf43ia2p/esniper_docker_example.png)
 
 ##### For FAQs and more info about esniper visit home page
 Home page [esniper](http://esniper.sourceforge.net/index.html)
