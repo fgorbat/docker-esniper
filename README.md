@@ -20,4 +20,4 @@ sudo docker run --rm -e EUSER=ebay_user \
 * EPRICE=`Maximal Bid`
 
 #### esniper home page
-Home page [esniper](https://sourceforge.net/projects/esniper/)
+Home page [esniper](https://sourceforge.net/projects/esniper/index.html)
