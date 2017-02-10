@@ -34,5 +34,5 @@ sudo docker run --rm \
 ##### For FAQs and more info about esniper visit home page:
 Home Page [esniper](http://esniper.sourceforge.net/index.html)
 
-##### Want to know how to install docker on Win, Mac and Linux?
+##### Want to know how to install docker on Windows, MacOS or Linux?
 * Docker official [installation instactions](https://docs.docker.com/engine/installation/)
