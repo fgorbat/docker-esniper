@@ -9,7 +9,7 @@ RUN yum update -y && \
     yum install -y gcc libcurl-devel gcc-c++ make && \
     yum install -y httpd-devel php-devel && \
     curl https://kent.dl.sourceforge.net/project/esniper/esniper/2.32.0/esniper-2-32-0.tgz -o /tmp/esniper.tgz && \
-    cd /tmp; tar zxf /tmp/esniper.tgz; cd /tmp/esniper-2-32-0; ./configure; make; make install && \
+    cd /tmp && tar zxf /tmp/esniper.tgz && cd /tmp/esniper-2-32-0; ./configure; make; make install && \
     mkdir -p /esniper/logs
 
 ADD .esniper / 
