@@ -19,5 +19,5 @@ sudo docker run --rm -e EUSER=ebay_user \
 * EITEM=`eBay item number`
 * EPRICE=`Maximal Bid`
 
-#### esniper hope page
+#### esniper home page
 Home page [esniper] https://sourceforge.net/projects/esniper/
