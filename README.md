@@ -2,7 +2,7 @@
 
 ### Containerized docker-esniper for sniping eBay auctions.
 
-#### Quick Start
+## Quick Start
 
 The quickest way to get the service up is to use Docker.
 
@@ -17,7 +17,7 @@ sudo docker run --rm \
      fgorbat/docker-esniper
 ```
 
-##### By executing this command, you have to supply the following info:
+#### By executing this command, you have to supply the following info:
 
 * EUSER=`<your eBay user name>`
 * EPASS=`<your eBay password>`
