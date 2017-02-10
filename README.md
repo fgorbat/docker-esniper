@@ -2,7 +2,11 @@
 
 ## Containerized docker-esniper for sniping eBay auctions.
 
-### To run it, just type the following command
+### Quick Start
+
+The quickest way to get the service up is to use Docker.
+
+To run it, just type the following command with eBay credentials, item number and max bid.
 
 ```sh
 sudo docker run --rm \
@@ -15,14 +19,14 @@ sudo docker run --rm \
 
 ### By executing this command, you have to supply the following info:
 
-* EUSER=`your eBay user name`
-* EPASS=`your eBay password`
-* EITEM=`eBay item number`
-* EPRICE=`Maximal Bid`
+* EUSER=`<your eBay user name>`
+* EPASS=`<your eBay password>`
+* EITEM=`<eBay item number>`
+* EPRICE=`<Maximal Bid>`
 
 
 ##### eBay item number: 
-![N|Solid](https://s27.postimg.org/wyc9fddwz/example1.png)
+![N|Solid](https://s23.postimg.org/xq520k84r/example1.png)
 
 #### For FAQs and more info about esniper visit home page
 Home page [esniper](http://esniper.sourceforge.net/index.html)
