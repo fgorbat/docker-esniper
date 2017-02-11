@@ -1,5 +1,3 @@
-# fgorbat/docker-esniper
-
 ### Containerized docker-esniper for sniping eBay auctions.
 
 ## Quick Start
@@ -18,12 +16,10 @@ sudo docker run --rm \
 ```
 
 #### By executing this command, you have to supply the following info:
-
 * EUSER=`<your eBay user name>`
 * EPASS=`<your eBay password>`
 * EITEM=`<eBay item number>`
 * EPRICE=`<Maximal Bid>`
-
 
 #### eBay item number: 
 ![N|Solid](https://s23.postimg.org/xq520k84r/example1.png)
@@ -31,8 +27,11 @@ sudo docker run --rm \
 #### Screenshot with Example:
 ![N|Solid](https://s30.postimg.org/dkf43ia2p/esniper_docker_example.png)
 
-##### For FAQs and more info about esniper visit home page:
-Home Page [esniper](http://esniper.sourceforge.net/index.html)
-
 ##### Want to know how to install docker on Windows, MacOS or Linux?
-* Docker official [installation instuctions](https://docs.docker.com/engine/installation/)
+* Use Docker official [installation instuctions](https://docs.docker.com/engine/installation/)
+
+#### More details about auction sniping practice:
+* Auction sniping practice [wiki](https://en.wikipedia.org/wiki/Auction_sniping)
+
+#### For FAQs and more info about esniper visit home page:
+* Home Page [esniper](http://esniper.sourceforge.net/index.html)
