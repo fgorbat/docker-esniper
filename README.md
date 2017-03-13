@@ -1,5 +1,5 @@
 ### Containerized docker-esniper for sniping eBay auctions.
-
+- based on latest (Mar-2017) esniper version 2.33.0
 ## Quick Start
 
 The quickest way to get the service up is to use Docker.
@@ -9,7 +9,7 @@ To run it, just type the following command with eBay credentials, item number an
 ```sh
 sudo docker run --rm \
      -e EUSER='ebay_user' \
-     -e EPASS='ebay_user' \
+     -e EPASS='ebay_password' \
      -e EITEM=123456789000 \
      -e EPRICE=33.5 \
      fgorbat/docker-esniper
