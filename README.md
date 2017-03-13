@@ -8,8 +8,8 @@ To run it, just type the following command with eBay credentials, item number an
 
 ```sh
 sudo docker run --rm \
-     -e EUSER=ebay_user \
-     -e EPASS=ebay_user \
+     -e EUSER='ebay_user' \
+     -e EPASS='ebay_user' \
      -e EITEM=123456789000 \
      -e EPRICE=33.5 \
      fgorbat/docker-esniper
