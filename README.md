@@ -1,6 +1,6 @@
 ### Containerized docker-esniper for sniping eBay auctions.
 
-- based on the latest (Mar-2017) esniper version 2.33.0
+- based on the latest (June-2018) esniper version 2.35.0
 
 ## Quick Start
 
