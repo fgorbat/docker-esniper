@@ -27,7 +27,7 @@ sudo docker run --rm \
 ![N|Solid](https://raw.githubusercontent.com/fgorbat/docker-esniper/master/ebay_item_example.jpg)
 
 #### Screenshot with Example:
-![N|Solid](https://s30.postimg.org/dkf43ia2p/esniper_docker_example.png)
+![N|Solid](https://github.com/fgorbat/docker-esniper/raw/master/ebay_item_won.jpg)
 
 ##### Want to know how to install docker on Windows, MacOS or Linux?
 * Use Docker official [installation instuctions](https://docs.docker.com/engine/installation/)
