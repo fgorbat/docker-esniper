@@ -24,7 +24,7 @@ sudo docker run --rm \
 * EPRICE=`<Maximal Bid>`
 
 #### eBay item number: 
-![N|Solid](https://raw.githubusercontent.com/fgorbat/docker-esniper/master/ebay_item_example.jpg)
+![N|Solid](https://raw.githubusercontent.com/fgorbat/docker-esniper/master/ebay_item_example1.jpg)
 
 #### Screenshot with Example:
 ![N|Solid](https://github.com/fgorbat/docker-esniper/raw/master/ebay_item_won.jpg)
