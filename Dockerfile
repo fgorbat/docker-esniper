@@ -13,7 +13,8 @@ RUN yum update -y && \
     cd /tmp; git clone https://git.code.sf.net/p/esniper/git esniper-git -b legacy && \
     curl http://springdale.princeton.edu/data/springdale/7/x86_64/os/Computational/automake115-1.15-9.sdl7.noarch.rpm -o /tmp/automake115-1.15-9.sdl7.noarch.rpm
     yum localinstall -y /tmp/automake115-1.15-9.sdl7.noarch.rpm
-    cd /tmp/esniper-git ./configure; make; make install && \
+    cd /tmp/esniper-git && \
+    ./configure; make; make install && \
     mkdir -p /esniper/logs
 
 ADD .esniper / 
